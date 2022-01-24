@@ -1,6 +1,10 @@
 # 1Password CLI plugin
 
-## Commnd completions
+You need to install [1Password CLI](https://support.1password.com/command-line-getting-started/).
+Install plugin by putting the onepassword folder inside your `$HOME/.oh-my-zsh/custom/plugins` folder.
+Then add `onepassword` to your plugins list.
+
+## Command completions
 
 Sets up the command completions generated from `op completion zsh`.
 
